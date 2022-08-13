@@ -1,17 +1,16 @@
-# pdpui7
+![F0ECDD07-E7F0-4221-A66F-C28050BB4F4B_1_105_c](https://user-images.githubusercontent.com/96878908/184499498-8351f06d-bfec-4df8-a370-5df357a6e8cd.jpeg),
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# pdp7_Amazon
+Amazon app UI, no functions available but just the UI itself!
+
+
+
+
+
+
+![ECE13383-6266-46E3-9F87-5FF731C8D261_1_105_c](https://user-images.githubusercontent.com/96878908/184499503-4d691064-b2ba-433a-9dad-764735e8dbc7.jpeg) 
+
